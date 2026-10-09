@@ -1,0 +1,16 @@
+[project]
+name = "envlint"
+version = "0.1.0"
+description = "Lint .env files"
+requires-python = ">=3.8"
+license = { text = "MIT" }
+
+[project.scripts]
+envlint = "envlint.cli:main"
+
+[build-system]
+requires = ["setuptools"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools]
+packages = ["envlint"]
