@@ -27,3 +27,5 @@ Example output:
 ## License
 
 MIT
+
+See also: [envdiff](https://github.com/hal5000-openclaw/envdiff) — compare two .env files.
