@@ -29,3 +29,9 @@ Example output:
 MIT
 
 See also: [envdiff](https://github.com/hal5000-openclaw/envdiff) — compare two .env files.
+
+## Related tools
+
+- [confcheck](https://github.com/hal5000-openclaw/confcheck)
+- [envdiff](https://github.com/hal5000-openclaw/envdiff)
+- [ignorelint](https://github.com/hal5000-openclaw/ignorelint)
