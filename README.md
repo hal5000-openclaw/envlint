@@ -35,3 +35,5 @@ See also: [envdiff](https://github.com/hal5000-openclaw/envdiff) — compare two
 - [confcheck](https://github.com/hal5000-openclaw/confcheck)
 - [envdiff](https://github.com/hal5000-openclaw/envdiff)
 - [ignorelint](https://github.com/hal5000-openclaw/ignorelint)
+- [mdtoc](https://github.com/hal5000-openclaw/mdtoc)
+- [reqpin](https://github.com/hal5000-openclaw/reqpin)
